@@ -1,4 +1,4 @@
-# Marketing Portfolio - Mert Ali Erün
+# Digital Marketing Portfolio - Mert Ali Erün
 
 ## About Me
 I am a dynamic digital marketing professional with a strong foundation in project management and data analytics. Over the past five years, I've had the privilege of working across diverse industries, from SaaS and legal tech to gastronomy and e-commerce. My experience spans working with global enterprises like Wolters Kluwer and Shimano, as well as innovative startups, giving me a unique perspective on marketing challenges across different scales and sectors.
