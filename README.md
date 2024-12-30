@@ -28,16 +28,15 @@ Currently serving as a Subject Matter Expert at NMQ Digital, I handle complex ma
 ### Technical Stack
 - **CRM/Marketing Automation**: Eloqua, Marketo, Mailchimp, HubSpot, Hootsuite, Adobe Campaign Standard
 - **Analytics**: Google Analytics, Google Data Studio, R
-- **Content Management**: Adobe Experience Manager (AEM), WordPress
-- **Other Tools**: 
+- **Content Management**: Sitecore, Crownpeak, WordPress
+- **SEO**: Google Search Console, SEMrush, Keyword Planner, Ahrefs, SimilarWeb
 
-## Key Projects & Achievementsü
+## Key Projects & Achievements
 
-Key Projects & Achievements
-Shimano 2025 Email Newsletter Templates
+### Shimano 2025 Email Newsletter Templates
 A comprehensive email template development project creating four distinct, responsive newsletter designs for different interest groups within Shimano's customer base.
-Technical Stack:
 
+Technical Stack:
 HTML5
 CSS3
 VML (for Outlook compatibility)
@@ -77,23 +76,30 @@ https://www.dropbox.com/scl/fi/b9epdijfttdl40aclsslo/screencapture-file-C-Users-
 <details>
 <summary>Template 4: Road Newsletter</summary>
 Still ongoing
+</details>
 
-### Future Ready Lawyer - Wolters Kluwer
+### Future Ready Lawyer - Wolters Kluwer - https://www.wolterskluwer.com/en/know/future-ready-lawyer-2023
 A comprehensive branding and research project spanning 13 countries, focusing on legal industry trends including AI, ESG, and LegalTech.
 
 **Role & Responsibilities:**
 - Led cross-functional collaboration with local marketers, agencies, and C-suite executives
 - Managed content creation and quality assurance
 - Orchestrated email campaign flows and webpage development
-- Created over 160 pieces of content including emails, articles, and landing pages
+- Created over 160 pieces of content including emails, articles, forms and landing pages
 
 **Results:**
 - Successfully launched in all 13 target markets
 - Achieved high engagement rates across all content types
 - Established Wolters Kluwer as a thought leader in legal technology trends
 
-### Kleos Browser Project
-A technical marketing initiative for Wolters Kluwer's practice management software.
+**Page examples**
+- https://www.wolterskluwer.com/en/expert-insights/ai-for-lawyers-mixed-perceptions-of-this-technology
+- https://www.wolterskluwer.com/en/expert-insights/legal-trends-2023-law-firm-recruitment-and-remote-legal-work
+- https://www.wolterskluwer.com/en/expert-insights/esg-and-law-navigating-a-critical-growth-area
+- https://www.wolterskluwer.com/en/expert-insights/legal-technology-increasing-value-for-the-clients
+
+### Kleos Browser Project - https://www.wolterskluwer.com/en/solutions/kleos
+A technical marketing initiative for Wolters Kluwer's practice management software. Form renewals of 14 countries accordingly with GDPR practices. Updates forms, landing pages and workflows for proper data collection, accuracy and protection.
 
 **Role & Responsibilities:**
 - Coordinated with legal advisors, IT teams, and marketers
@@ -101,18 +107,131 @@ A technical marketing initiative for Wolters Kluwer's practice management softwa
 - Developed GDPR-compliant forms for multiple European markets
 - Created and optimized marketing funnels
 
-### AI Contract Reader Launch
-Led the product marketing launch for Wolters Kluwer's AI-powered contract analysis tool.
+### AI Contract Reader Launch Campaign
+A strategic product launch campaign for Wolters Kluwer's innovative AI-powered contract analysis solution, targeting existing product users across multiple markets.
+Campaign Strategy:
 
-**Achievements:**
-- Designed and implemented a multi-touch marketing campaign
-- Created targeted content including whitepapers, videos, and email sequences
-- Developed a lead nurturing strategy resulting in successful product adoption
+**Market Research & Planning:**
+
+Collaborated with local marketers to develop market-specific approaches
+Conducted extensive market research to identify target segments
+Created data-driven content strategy based on market insights
+Developed multi-touch campaign architecture with precise timing
+
+
+**Campaign Structure:**
+
+**Initial Awareness Phase**
+
+High-impact email highlighting key capability: "1800 contracts in 2 hours"
+CTA leading to educational content hub
+Video demonstration and detailed article integration
+
+
+**Value Demonstration(Consideration) Phase**
+
+Progress update email showcasing real-time performance
+Strategic timing to capture peak business hours
+Whitepaper integration for deep-dive technical content
+
+
+**Conversion Phase**
+
+Triggered email based on user engagement
+Demo offer with exclusive discount
+Optimized landing page with lead capture form
+Direct connection to sales team for demo scheduling
+
+
+**Technical Implementation:**
+
+Created automated workflow triggers based on user interactions
+Integrated CRM systems for lead tracking and nurturing
+Developed responsive landing pages and forms
+Implemented analytics tracking for campaign measurement
+
+**Content Development:**
+
+Product demonstration videos
+Technical whitepapers
+Educational articles
+Email copies
+Landing page content
+Sales enablement materials
+
+**Cross-functional Collaboration:**
+
+Local marketing teams for market-specific adaptations
+Sales team for demo process alignment
+Technical teams for product integration
+Content teams for asset creation
+Legal team for compliance review
+
+**Results:**
+
+Successful multi-market launch
+High engagement rates with educational content
+Strong demo conversion rates
+Positive sales team feedback on lead quality
+Established effective framework for future product launches
+
+### Smartlaw.de Migration Project
+A complex website migration project following Wolters Kluwer's acquisition of Smartlaw.de, involving the transfer and optimization of 89 web pages while maintaining SEO value and user experience.
+
+**Project Scope:**
+- Migration of 89 web pages from legacy platform to Adobe Experience Manager (AEM)
+- SEO preservation and enhancement
+- Content optimization and brand alignment
+- Technical infrastructure transition
+- User experience maintenance and improvement
+
+**Technical Implementation:**
+- **Platform Migration:**
+  - Transferred content to Adobe Experience Manager
+  - Implemented responsive design principles
+  - Set up new technical infrastructure
+  - Created custom templates and components
+
+- **SEO Preservation:**
+  - Developed comprehensive 301 redirect mapping
+  - Preserved existing URL structures where possible
+  - Implemented metadata migration strategy
+  - Maintained search engine rankings during transition
+  - Set up SEO monitoring and tracking
+
+- **Content Optimization:**
+  - Audited and updated all page content
+  - Aligned with Wolters Kluwer brand guidelines
+  - Enhanced content structure and hierarchy
+  - Implemented new visual assets and branding elements
+
+**Quality Assurance:**
+- Cross-browser testing
+- Mobile responsiveness verification
+- Page speed optimization
+- Link integrity checking
+- Content accuracy verification
+- SEO compliance validation
+
+**Migration Process:**
+1. Initial content audit and inventory
+2. Technical requirements gathering
+3. Template development and testing
+4. Content migration and optimization
+5. QA and testing phase
+6. Staged rollout
+7. Post-migration monitoring
+
+**Risk Mitigation:**
+- Created comprehensive backup systems
+- Developed rollback procedures
+- Implemented monitoring alerts
+- Established contingency plans
+- Set up emergency response protocols
 
 ### EDA Digital Transformation
 **Key Achievements:**
-- Expanded customer database by 55%
-- Increased monthly email engagement 3x
+- Expanded customer database
 - Implemented CRM systems (Mailchimp & HubSpot)
 - Optimized e-commerce operations across multiple platforms
 
@@ -122,5 +241,3 @@ Led the product marketing launch for Wolters Kluwer's AI-powered contract analys
 - Scaled to 4,000 users in three months
 - Developed and executed successful go-to-market strategies
 - Created engaging community presence on Quora and Reddit
-
-My portfolio demonstrates my ability to drive marketing success through data-driven decisions, technical expertise, and strategic thinking. Each project represents my commitment to delivering measurable results while maintaining a focus on user experience and business objectives.
