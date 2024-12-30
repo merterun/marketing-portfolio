@@ -8,7 +8,7 @@ Currently serving as a Subject Matter Expert at NMQ Digital, I handle complex ma
 ## Core Competencies & Technical Expertise
 
 ### Marketing Automation & CRM
-- **Platform Expertise**: Advanced proficiency in Eloqua, Marketo, Mailchimp, and HubSpot
+- **Platform Expertise**: Advanced proficiency in Eloqua, Marketo, Mailchimp, Adobe Campaign Standard and HubSpot
 - **Workflow Design**: Created and optimized complex marketing automation workflows, including API integrations between CRM systems and databases
 - **Email Marketing**: Designed and implemented sophisticated email campaigns with demonstrated improvement in engagement metrics
 - **Database Management**: Experience in user database scraping, cleaning, and maintenance, including bounce management and error categorization
@@ -107,7 +107,7 @@ A technical marketing initiative for Wolters Kluwer's practice management softwa
 - Developed GDPR-compliant forms for multiple European markets
 - Created and optimized marketing funnels
 
-### AI Contract Reader Launch Campaign
+### AI Contract Reader Launch Campaign - https://www.wolterskluwer.com/en-gb/solutions/legisway/contract-review-for-legal-departments
 A strategic product launch campaign for Wolters Kluwer's innovative AI-powered contract analysis solution, targeting existing product users across multiple markets.
 Campaign Strategy:
 
@@ -118,7 +118,6 @@ Conducted extensive market research to identify target segments
 Created data-driven content strategy based on market insights
 Developed multi-touch campaign architecture with precise timing
 
-
 **Campaign Structure:**
 
 **Initial Awareness Phase**
@@ -127,13 +126,11 @@ High-impact email highlighting key capability: "1800 contracts in 2 hours"
 CTA leading to educational content hub
 Video demonstration and detailed article integration
 
-
 **Value Demonstration(Consideration) Phase**
 
 Progress update email showcasing real-time performance
 Strategic timing to capture peak business hours
 Whitepaper integration for deep-dive technical content
-
 
 **Conversion Phase**
 
@@ -234,6 +231,7 @@ A complex website migration project following Wolters Kluwer's acquisition of Sm
 - Expanded customer database
 - Implemented CRM systems (Mailchimp & HubSpot)
 - Optimized e-commerce operations across multiple platforms
+- Paid Ads in Google Search and Facebook
 
 ### Bethabit Product Launch
 **Results:**
