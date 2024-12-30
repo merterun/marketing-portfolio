@@ -26,13 +26,57 @@ Currently serving as a Subject Matter Expert at NMQ Digital, I handle complex ma
 - **Performance Tracking**: Regular monitoring and optimization of SEO metrics
 
 ### Technical Stack
-- **CRM/Marketing Automation**: Eloqua, Marketo, Mailchimp, HubSpot, Hootsuite
+- **CRM/Marketing Automation**: Eloqua, Marketo, Mailchimp, HubSpot, Hootsuite, Adobe Campaign Standard
 - **Analytics**: Google Analytics, Google Data Studio, R
-- **Project Management**: JIRA, Kanban boards
 - **Content Management**: Adobe Experience Manager (AEM), WordPress
-- **Other Tools**: Salesforce, Microsoft Excel, Data Visualization tools
+- **Other Tools**: 
 
-## Key Projects & Achievements
+## Key Projects & Achievementsü
+
+Key Projects & Achievements
+Shimano 2025 Email Newsletter Templates
+A comprehensive email template development project creating four distinct, responsive newsletter designs for different interest groups within Shimano's customer base.
+Technical Stack:
+
+HTML5
+CSS3
+VML (for Outlook compatibility)
+JavaScript
+Responsive design principles
+Cross-email client testing
+
+Project Scope:
+
+Developed four custom email templates from scratch
+Implemented responsive design for mobile optimization
+Ensured cross-client compatibility (Gmail, Outlook, Apple Mail, etc.)
+Created modular components for easy content updates
+Optimized for accessibility and loading speed
+
+Key Features:
+
+Mobile-responsive layouts
+Dark mode compatibility
+Interactive elements with fallbacks
+Optimized image handling
+Custom font implementation with web-safe fallbacks
+VML fallbacks for Outlook rendering
+
+<details>
+<summary>Template 1: Gravel Newsletter</summary>
+[[Image placeholder for Road Cycling template](https://www.dropbox.com/scl/fi/aaguhthvn4nf65ew4nf6h/screencapture-file-Users-merte-Downloads-Templates-Gravel-template-html-2024-12-30-16_33_02.png?rlkey=xkvu2onkukqzhq5kfq4rcrht1&st=r0yovgzf&dl=0)]
+</details>
+<details>
+<summary>Template 2: Mountain Biking Newsletter</summary>
+[Image placeholder for Mountain Biking template]
+</details>
+<details>
+<summary>Template 3: Urban Cycling Newsletter</summary>
+[Image placeholder for Urban Cycling template]
+</details>
+<details>
+<summary>Template 4: E-Bike Newsletter</summary>
+[Image placeholder for E-Bike template]
 
 ### Future Ready Lawyer - Wolters Kluwer
 A comprehensive branding and research project spanning 13 countries, focusing on legal industry trends including AI, ESG, and LegalTech.
