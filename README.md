@@ -64,19 +64,19 @@ VML fallbacks for Outlook rendering
 
 <details>
 <summary>Template 1: Gravel Newsletter</summary>
-[[Image placeholder for Road Cycling template](https://www.dropbox.com/scl/fi/aaguhthvn4nf65ew4nf6h/screencapture-file-Users-merte-Downloads-Templates-Gravel-template-html-2024-12-30-16_33_02.png?rlkey=xkvu2onkukqzhq5kfq4rcrht1&st=r0yovgzf&dl=0)]
+https://www.dropbox.com/scl/fi/aaguhthvn4nf65ew4nf6h/screencapture-file-Users-merte-Downloads-Templates-Gravel-template-html-2024-12-30-16_33_02.png?rlkey=xkvu2onkukqzhq5kfq4rcrht1&st=r0yovgzf&dl=0
 </details>
 <details>
 <summary>Template 2: Mountain Biking Newsletter</summary>
-[Image placeholder for Mountain Biking template]
+https://www.dropbox.com/scl/fi/h240yz3i36ztmk8jz5lix/screencapture-file-C-Users-mert-erun-OneDrive-NMQ-Digital-Desktop-Shimano-Bike-template-study-MTB-Templates-MTB-Template-html-2024-12-30-16_01_23.png?rlkey=ldsigcwknyairfhykm2tkpqwi&st=q9v5vikk&dl=0
 </details>
 <details>
-<summary>Template 3: Urban Cycling Newsletter</summary>
-[Image placeholder for Urban Cycling template]
+<summary>Template 3: Lifestyle Newsletter</summary>
+https://www.dropbox.com/scl/fi/b9epdijfttdl40aclsslo/screencapture-file-C-Users-mert-erun-OneDrive-NMQ-Digital-Desktop-Shimano-Bike-template-study-Lifestyle-Template-Lifestyle-Template-html-2024-12-30-16_01_49.png?rlkey=7kmqj6v368nosssaeg4a1e81i&st=rb3wrytl&dl=0
 </details>
 <details>
-<summary>Template 4: E-Bike Newsletter</summary>
-[Image placeholder for E-Bike template]
+<summary>Template 4: Road Newsletter</summary>
+Still ongoing
 
 ### Future Ready Lawyer - Wolters Kluwer
 A comprehensive branding and research project spanning 13 countries, focusing on legal industry trends including AI, ESG, and LegalTech.
