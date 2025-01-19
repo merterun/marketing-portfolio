@@ -1,20 +1,20 @@
 # Digital Marketing Portfolio - Mert Ali Erün
 
 ## About Me
-I am a dynamic digital marketing professional with a strong foundation in project management and data analytics. Over the past five years, I've had the privilege of working across diverse industries, from SaaS and legal tech to gastronomy and e-commerce. My experience spans working with global enterprises like Wolters Kluwer and Shimano, as well as innovative startups, giving me a unique perspective on marketing challenges across different scales and sectors.
+I am a dynamic digital marketing professional with a strong foundation in project management and data analytics. Over the past five years, I've had the privilege of working across diverse industries, from SaaS and legal tech to product, aerospace and e-commerce. My experience spans working with global enterprises like DuPont, JAMS, Wolters Kluwer and Shimano, as well as startups, giving me a unique perspective on marketing challenges across different scales and sectors.
 
-Currently serving as a Subject Matter Expert at NMQ Digital, I handle complex marketing operations across EU, Benelux, and US markets, primarily focusing on legal tech SaaS products. My approach to marketing is deeply rooted in data and cross-functional collaboration, allowing me to drive impactful marketing initiatives that deliver measurable results.
+Currently serving as a Digital Marketing Manager at NMQ Digital, I handle complex marketing operations across EU, DACH, Benelux, and US markets, primarily focusing on legal tech SaaS and Aerospace products. My approach to marketing is deeply rooted in data and cross-functional collaboration, allowing me to drive impactful marketing initiatives that deliver measurable results.
 
 ## Core Competencies & Technical Expertise
 
 ### Marketing Automation & CRM
 - **Platform Expertise**: Advanced proficiency in Eloqua, Marketo, Mailchimp, Adobe Campaign Standard and HubSpot
-- **Workflow Design**: Created and optimized complex marketing automation workflows, including API integrations between CRM systems and databases
-- **Email Marketing**: Designed and implemented sophisticated email campaigns with demonstrated improvement in engagement metrics
+- **Workflow Design**: Created and optimized complex marketing automation workflows, including API integrations between CRM systems and databases and email marketing campaigns
+- **Email Development**: Designed and implemented sophisticated emails that are compatible across multiple devices and email clients
 - **Database Management**: Experience in user database scraping, cleaning, and maintenance, including bounce management and error categorization
 
 ### Analytics & Data-Driven Marketing
-- **Tools**: Google Analytics, Google Data Studio, A/B Testing platforms
+- **Tools**: Google Analytics, Google Data Studio, Tableau, R, SQL
 - **Reporting**: Creation of comprehensive performance reports focusing on key metrics and ROI
 - **Optimization**: Implementation of data-driven improvements in campaign performance, leading to increased conversion rates
 - **Marketing Intelligence**: Market research and trend analysis for strategic decision-making
@@ -24,6 +24,7 @@ Currently serving as a Subject Matter Expert at NMQ Digital, I handle complex ma
 - **Content Strategy**: Development of content marketing strategies across multiple channels
 - **Local SEO**: Management of local SEO operations with proven results in improving local visibility
 - **Performance Tracking**: Regular monitoring and optimization of SEO metrics
+- **Web Design**: Designed fully functional websites and landing pages using HTML, CSS and Javascripts as well as their frameworks like Bootstrap and SaSS
 
 ### Technical Stack
 - **CRM/Marketing Automation**: Eloqua, Marketo, Mailchimp, HubSpot, Hootsuite, Adobe Campaign Standard
