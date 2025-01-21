@@ -27,7 +27,7 @@ Currently serving as a Digital Marketing Manager at NMQ Digital, I handle comple
 - **Web Design**: Designed fully functional websites and landing pages using HTML, CSS and Javascripts as well as their frameworks like Bootstrap and SaSS
 
 ### Technical Stack
-- **CRM/Marketing Automation**: Eloqua, Marketo, Mailchimp, HubSpot, Hootsuite, Adobe Campaign Standard
+- **CRM/Marketing Automation**: Eloqua, Marketo, Braze, Mailchimp, HubSpot, Hootsuite, Adobe Campaign Standard
 - **Analytics**: Google Analytics, Google Data Studio, R
 - **Content Management**: Sitecore, Crownpeak, WordPress
 - **SEO**: Google Search Console, SEMrush, Keyword Planner, Ahrefs, SimilarWeb
@@ -43,7 +43,7 @@ CSS3
 VML (for Outlook compatibility)
 JavaScript
 Responsive design principles
-Cross-email client testing(Email on Acid)
+Cross-email client testing (Email on Acid)
 
 Project Scope:
 
