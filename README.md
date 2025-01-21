@@ -85,7 +85,8 @@ A comprehensive branding and research project spanning 13 countries, focusing on
 **Role & Responsibilities:**
 - Led cross-functional collaboration with local marketers, agencies, and C-suite executives
 - Managed content creation and quality assurance
-- Orchestrated email campaign flows and webpage development
+- Designed Emails, Forms and Landing pages
+- Email campaign flows and webpage development
 - Created over 160 pieces of content including emails, articles, forms and landing pages
 
 **Results:**
