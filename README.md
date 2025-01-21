@@ -8,7 +8,7 @@ Currently serving as a Digital Marketing Manager at NMQ Digital, I handle comple
 ## Core Competencies & Technical Expertise
 
 ### Marketing Automation & CRM
-- **Platform Expertise**: Advanced proficiency in Eloqua, Marketo, Mailchimp, Adobe Campaign Standard and HubSpot
+- **Platform Expertise**: Advanced proficiency in Eloqua, Marketo, Braze, Mailchimp, Adobe Campaign Standard, HubSpot, Email on Acid
 - **Workflow Design**: Created and optimized complex marketing automation workflows, including API integrations between CRM systems and databases and email marketing campaigns
 - **Email Development**: Designed and implemented sophisticated emails that are compatible across multiple devices and email clients
 - **Database Management**: Experience in user database scraping, cleaning, and maintenance, including bounce management and error categorization
@@ -43,7 +43,7 @@ CSS3
 VML (for Outlook compatibility)
 JavaScript
 Responsive design principles
-Cross-email client testing
+Cross-email client testing(Email on Acid)
 
 Project Scope:
 
