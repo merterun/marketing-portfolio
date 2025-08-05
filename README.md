@@ -1,57 +1,67 @@
 # Digital Marketing Portfolio - Mert Ali Erün
 
 ## About Me
-I am a dynamic digital marketing professional with a strong foundation in project management and data analytics. Over the past five years, I've had the privilege of working across diverse industries, from SaaS and legal tech to product, aerospace and e-commerce. My experience spans working with global enterprises like DuPont, JAMS, Wolters Kluwer and Shimano, as well as startups, giving me a unique perspective on marketing challenges across different scales and sectors.
+I am a specialized email marketing and SEO professional with strong project management capabilities and data analytics expertise. Over the past 6 years, I've focused primarily on executing complex email marketing campaigns and SEO strategies while simultaneously managing large-scale marketing projects across diverse industries, from SaaS and legal tech to production, aerospace and e-commerce. My experience spans working with global enterprises like Unilever, DuPont, JAMS, Wolters Kluwer and Shimano, as well as startups, giving me a unique perspective on both tactical email marketing execution and strategic project delivery across different scales and sectors.
 
-Currently serving as a Digital Marketing Manager at NMQ Digital, I handle complex marketing operations across EU, DACH, Benelux, and US markets, primarily focusing on legal tech SaaS and Aerospace products. My approach to marketing is deeply rooted in data and cross-functional collaboration, allowing me to drive impactful marketing initiatives that deliver measurable results.
+Currently serving as a Digital Marketing Manager at NMQ Digital, I lead email marketing operations and SEO initiatives across EU, EMEA, Benelux, and US markets while managing the project lifecycle for complex, multi-market campaigns. My approach combines deep technical email marketing expertise with systematic project management methodologies, allowing me to deliver both high-performing campaigns and seamless project execution with measurable results.
 
 ## Core Competencies & Technical Expertise
 
-### Marketing Automation & CRM
-- **Platform Expertise**: Advanced proficiency in Eloqua, Marketo, Braze, Mailchimp, Adobe Campaign Standard, HubSpot, Email on Acid
-- **Workflow Design**: Created and optimized complex marketing automation workflows, including API integrations between CRM systems and databases and email marketing campaigns
-- **Email Development**: Designed and implemented sophisticated emails that are compatible across multiple devices and email clients
-- **Database Management**: Experience in user database scraping, cleaning, and maintenance, including bounce management and error categorization
+### Email Marketing & Marketing Automation 
 
-### Analytics & Data-Driven Marketing
-- **Tools**: Google Analytics, Google Data Studio, Tableau, R, SQL
-- **Reporting**: Creation of comprehensive performance reports focusing on key metrics and ROI
-- **Optimization**: Implementation of data-driven improvements in campaign performance, leading to increased conversion rates
-- **Marketing Intelligence**: Market research and trend analysis for strategic decision-making
+- **Platform Expertise**: Advanced proficiency in Eloqua, Marketo, Braze, Mailchimp, Adobe Campaign Standard, HubSpot, Email on Acid
+- **Campaign Management**: End-to-end email campaign execution from strategy to deployment, including A/B testing, segmentation, and performance optimization
+- **Workflow Design**: Created and optimized complex marketing automation workflows, including API integrations between CRM systems and databases
+- **Email Development**: Designed and coded sophisticated, responsive email templates compatible across multiple devices and email clients (HTML, CSS, VML for Outlook)
+- **Database Management**: Expert in user database management, segmentation, scraping, cleaning, and maintenance, including bounce management and deliverability optimization
+- **Performance Analytics**: Advanced email performance tracking, conversion optimization, and ROI measurement
 
 ### SEO & Content Marketing
-- **Technical SEO**: Implementation of SEO best practices, resulting in improved search engine rankings
-- **Content Strategy**: Development of content marketing strategies across multiple channels
-- **Local SEO**: Management of local SEO operations with proven results in improving local visibility
-- **Performance Tracking**: Regular monitoring and optimization of SEO metrics
-- **Web Design**: Designed fully functional websites and landing pages using HTML, CSS and Javascripts as well as their frameworks like Bootstrap and SaSS
+
+- **Technical SEO**: Implementation of comprehensive SEO strategies, resulting in improved search engine rankings and organic traffic growth
+- **Content Strategy**: Development and execution of content marketing strategies aligned with email campaigns and SEO objectives
+- **Performance Tracking**: Regular monitoring and optimization of SEO metrics, keyword rankings, and content performance
+- **Web Development**: Designed and developed fully functional websites and landing pages using HTML, CSS, and JavaScript, including frameworks like Bootstrap and Sass
+
+### Project Management & Cross-functional Leadership
+
+- **Campaign Project Management**: Led complex, multi-market email marketing projects involving creative teams, developers, legal compliance, and stakeholder coordination
+- **Agile/Scrum Implementation**: Using mostly Kanban in projects
+- **Stakeholder Management**: Coordinated with C-suite executives, technical teams, legal advisors, and external agencies across 13+ countries
+- **Resource Coordination**: Managed project timelines and cross-functional teams to ensure on-time, on-budget campaign delivery
+- **Quality Assurance**: Developed comprehensive QA processes and templates for email campaigns and project deliverables
+
+### Analytics & Data-Driven Marketing
+
+- **Tools**: Google Analytics, PowerBI, Tableau, R, SQL for campaign performance analysis and project reporting
+- **Reporting**: Creation of comprehensive email performance reports and project status dashboards focusing on key metrics and ROI
+- **Optimization**: Implementation of data-driven improvements in email campaign performance and project efficiency
+- **Marketing Intelligence**: Market research and trend analysis to inform both email strategy and project planning decisions
 
 ### Technical Stack
-- **CRM/Marketing Automation**: Eloqua, Marketo, Braze, Mailchimp, HubSpot, Hootsuite, Adobe Campaign Standard
-- **Analytics**: Google Analytics, Google Data Studio, R
-- **Content Management**: Sitecore, Crownpeak, WordPress
-- **SEO**: Google Search Console, SEMrush, Keyword Planner, Ahrefs, SimilarWeb
+
+- **Email/Marketing Automation**: Eloqua, Marketo, Braze, Mailchimp, HubSpot, Adobe Campaign Standard, SFDC, Email on Acid
+- **Project Management**: JIRA, Asana, Trello, Slack
+- **Analytics**: Google Analytics, Google Data Studio, R, SQL
+- **Content Management**: Sitecore, Crownpeak, WordPress 
+- **SEO Tools**: Google Search Console, SEMrush, Keyword Planner, Ahrefs, SimilarWeb
+- **Development**: HTML, CSS, JavaScript, Bootstrap, Sass for email template development and landing page creation
 
 ## Key Projects & Achievements
+
+### 
 
 ### Shimano 2025 Email Newsletter Templates
 A comprehensive email template development project creating four distinct, responsive newsletter designs for different interest groups within Shimano's customer base.
 
-Technical Stack:
-HTML5
-CSS3
-VML (for Outlook compatibility)
-JavaScript
-Responsive design principles
-Cross-email client testing (Email on Acid)
-
 Project Scope:
 
-Developed four custom email templates from scratch
+Four custom email templates were developed from scratch using HTML and CSS
 Implemented responsive design for mobile optimization
 Ensured cross-client compatibility (Gmail, Outlook, Apple Mail, etc.)
 Created modular components for easy content updates
 Optimized for accessibility and loading speed
+Comprehensive testing
 
 Key Features:
 
@@ -80,14 +90,14 @@ Still ongoing
 </details>
 
 ### Future Ready Lawyer - Wolters Kluwer - https://www.wolterskluwer.com/en/know/future-ready-lawyer-2023
-A comprehensive branding and research project spanning 13 countries, focusing on legal industry trends including AI, ESG, and LegalTech.
+A comprehensive branding project spanning 13 countries, focusing on legal industry trends including AI, ESG, and LegalTech.
 
 **Role & Responsibilities:**
 - Led cross-functional collaboration with local marketers, agencies, and C-suite executives
-- Managed content creation and quality assurance
+- Lead and managed content creation and quality assurance
 - Designed Emails, Forms and Landing pages
 - Email campaign flows and webpage development
-- Created over 160 pieces of content including emails, articles, forms and landing pages
+- Over 160 pieces of content including emails, articles, forms and landing pages were created
 
 **Results:**
 - Successfully launched in all 13 target markets
@@ -101,7 +111,7 @@ A comprehensive branding and research project spanning 13 countries, focusing on
 - https://www.wolterskluwer.com/en/expert-insights/legal-technology-increasing-value-for-the-clients
 
 ### Kleos Browser Project - https://www.wolterskluwer.com/en/solutions/kleos
-A technical marketing initiative for Wolters Kluwer's practice management software. Form renewals of 14 countries accordingly with GDPR practices. Updates forms, landing pages and workflows for proper data collection, accuracy and protection.
+A technical marketing initiative for Wolters Kluwer's practice management software. Form renewals of 14 countries in accordance with GDPR practices. Updated forms, landing pages and workflows for proper data collection, accuracy and protection.
 
 **Role & Responsibilities:**
 - Coordinated with legal advisors, IT teams, and marketers
@@ -109,8 +119,8 @@ A technical marketing initiative for Wolters Kluwer's practice management softwa
 - Developed GDPR-compliant forms for multiple European markets
 - Created and optimized marketing funnels
 
-### AI Contract Reader Launch Campaign - https://www.wolterskluwer.com/en-gb/solutions/legisway/contract-review-for-legal-departments
-A strategic product launch campaign for Wolters Kluwer's innovative AI-powered contract analysis solution, targeting existing product users across multiple markets.
+### AI Contract Reader Launch Project - https://www.wolterskluwer.com/en-gb/solutions/legisway/contract-review-for-legal-departments
+A strategic product launch campaign for Wolters Kluwer's innovative AI-powered contract analysis solution, targeting existing product users across multiple markets for upselling/cross-selling opportunities.
 Campaign Strategy:
 
 **Market Research & Planning:**
@@ -118,7 +128,7 @@ Campaign Strategy:
 Collaborated with local marketers to develop market-specific approaches
 Conducted extensive market research to identify target segments
 Created data-driven content strategy based on market insights
-Developed multi-touch campaign architecture with precise timing
+Developed multi-touch funnel architecture with precise timing
 
 **Campaign Structure:**
 
@@ -175,7 +185,7 @@ Positive sales team feedback on lead quality
 Established effective framework for future product launches
 
 ### Smartlaw.de Migration Project
-A complex website migration project following Wolters Kluwer's acquisition of Smartlaw.de, involving the transfer and optimization of 89 web pages while maintaining SEO value and user experience.
+A complex migration project following Wolters Kluwer's acquisition of Smartlaw.de, involving the transfer and optimization of 89 web pages while maintaining user experience.
 
 **Project Scope:**
 - Migration of 89 web pages from legacy platform to Adobe Experience Manager (AEM)
@@ -227,13 +237,6 @@ A complex website migration project following Wolters Kluwer's acquisition of Sm
 - Implemented monitoring alerts
 - Established contingency plans
 - Set up emergency response protocols
-
-### EDA Digital Transformation
-**Key Achievements:**
-- Expanded customer database
-- Implemented CRM systems (Mailchimp & HubSpot)
-- Optimized e-commerce operations across multiple platforms
-- Paid Ads in Google Search and Facebook
 
 ### Bethabit Product Launch
 **Results:**
