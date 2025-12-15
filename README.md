@@ -47,162 +47,31 @@ I'm a digital marketing professional specializing in marketing automation and pr
 
 ## Key Projects & Achievements
 
-### Unilever Food Solutions Lead Scoring System Implementation
-# Lead Scoring Model Implementation & Technical Optimization
-**Unilever Food Solutions (UK & Ireland)**
+### Lead Scoring Model Implementation - Unilever Food Solutions
+
+A comprehensive lead scoring system implementation for Unilever Food Solutions across UK and Ireland markets, transforming lead qualification processes and uncovering critical marketing automation infrastructure gaps.
+
+**Role & Responsibilities:**
+- Designed and implemented 24-trigger lead scoring model covering email, web, and behavioral activities
+- Conducted systematic technical investigation using smart lists, web activity reports, and browser-level testing
+- Led stakeholder alignment workshops with marketing operations, digital leadership, and technical teams
+- Created comprehensive documentation including implementation guides, testing protocols, and optimization frameworks
+- Coordinated cross-functional remediation efforts with Marketo administrators and web development teams
+
+**Results:**
+- Successfully deployed operational scoring system with SQL qualification at 100-point threshold
+- Identified and documented systemic tracking issue affecting 99.9% of lead database since 2022
+- Designed technical solution projected to improve lead tracking coverage from <1% to 20-40%
+- Established foundation for behavioral marketing automation and data-driven lead qualification
+- Enabled real-time lead scoring across 50,000+ contact database
+
+**Technical Highlights:**
+- Root cause analysis revealing cookie association gaps in API-based lead creation workflows
+- Multi-phase testing methodology isolating frontend tracking from backend data integration issues
+- Solution architecture for Munchkin JavaScript integration with authentication systems
+- Performance monitoring framework for ongoing trigger health and scoring accuracy optimization
 
 ---
-
-## Project Overview
-
-Led the complete implementation of a sophisticated lead scoring model for Unilever Food Solutions across UK and Ireland markets, encompassing 54,401+ leads in the Marketo database. The project evolved from a standard scoring system update into a comprehensive technical investigation that uncovered critical tracking infrastructure gaps affecting marketing automation capabilities since 2022.
-
-**Timeline:** September - December 2025  
-**Platform:** Marketo Engage  
-**Client:** Unilever Food Solutions (UKI)  
-**Impact:** Established data-driven SQL qualification framework and restored visibility into buyer journey analytics
-
----
-
-## Project Scope
-
-### Core Deliverables
-- **24 scoring triggers** across email, web, and form-based activities
-- **SQL qualification framework** with 100-point threshold
-- **Multi-stakeholder alignment** across marketing, operations, and technical teams
-- **Comprehensive technical investigation** identifying systemic tracking issues
-- **Implementation documentation** with testing protocols and optimization roadmap
-
-### Technical Environment
-- Marketing automation platform: Marketo Engage
-- Integration method: REST API (syncLead)
-- Tracking mechanism: Munchkin JavaScript
-- Lead volume: 54,401 records (2025)
-- Trigger complexity: 24 distinct scoring rules with conditional logic
-
----
-
-## Key Features & Achievements
-
-### Strategic Framework Development
-Designed and implemented a comprehensive scoring model that assigns point values based on engagement intent:
-- **High-intent actions** (75 points): Sample requests, order initiation, product inquiries
-- **Moderate engagement** (17-50 points): Content downloads, account registration, form submissions
-- **Light engagement** (5-10 points): Email opens, website visits, video views
-- **Negative scoring** (-25 points): Unsubscribes and inactivity decay
-
-### Technical Investigation & Discovery
-Conducted systematic testing that revealed critical infrastructure gaps:
-- **Data Analysis:** Identified that only 0.1% of leads (57 out of 54,401) had website activity tracked
-- **Root Cause Analysis:** Determined that API-based lead creation bypassed cookie association mechanisms
-- **Browser-Level Validation:** Confirmed through console testing that logged-in users were tracked as anonymous visitors
-- **Pattern Recognition:** Discovered that 89% of tracked leads gained visibility only through email click-through attribution
-
-### Solution Architecture
-Designed technical remediation approach addressing the tracking gap:
-- Documented implementation requirements for `Munchkin.munchkinFunction('associateLead')` integration
-- Created testing protocols for validation across login/signup workflows
-- Established monitoring framework for trigger health and scoring accuracy
-- Developed comprehensive technical documentation for cross-functional teams
-
-### Stakeholder Management
-Facilitated alignment across multiple organizational levels:
-- Conducted discovery workshops with marketing operations teams
-- Presented technical findings to digital leadership (Head of Digital & Operator Marketing)
-- Coordinated with Marketo administrators on infrastructure optimization
-- Delivered actionable recommendations to web development teams
-
----
-
-## Measurable Impact
-
-### Immediate Outcomes
-✅ **Email-based scoring fully operational** - Tracking opens, clicks, form fills, and engagement decay  
-✅ **SQL definition established** - Clear 100-point qualification threshold for sales handoff  
-✅ **System health monitoring** - Active tracking of trigger performance and scoring patterns  
-✅ **Knowledge transfer** - Comprehensive documentation enabling future optimization
-
-### Projected Impact (Post-Fix Implementation)
-- **20-40% improvement** in lead tracking coverage (from 0.1% to estimated 20-40% of active users)
-- **Enhanced lead qualification accuracy** through complete buyer journey visibility
-- **Behavioral trigger enablement** for 12 web-based automation campaigns
-- **Data-driven optimization** capabilities for ongoing scoring refinement
-
----
-
-## Technical Challenges Overcome
-
-### Challenge 1: Zero Historical Baseline
-**Problem:** Existing scoring system was outdated and not monitored, providing no performance baseline  
-**Solution:** Built comprehensive testing framework to validate each trigger independently and establish new performance metrics
-
-### Challenge 2: Systemic Tracking Failure
-**Problem:** Web-based triggers showed 0-2 activities per year despite significant website traffic  
-**Solution:** Conducted multi-phase investigation using smart lists, web activity reports, and browser console testing to isolate root cause
-
-### Challenge 3: Complex Data Flow Architecture
-**Problem:** 100% API-based lead creation created disconnect between backend systems and frontend tracking  
-**Solution:** Mapped complete data flow from lead creation through cookie association, identifying the specific integration gap
-
-### Challenge 4: Anonymous vs. Known Attribution
-**Problem:** Thousands of page views captured but not connected to lead records  
-**Solution:** Analyzed attribution patterns, confirmed email click-through as only working mechanism, and designed cookie association solution
-
----
-
-## Key Skills Demonstrated
-
-**Technical Analysis**
-- Marketing automation platform optimization (Marketo)
-- JavaScript tracking implementation (Munchkin)
-- API integration architecture (REST API, syncLead)
-- Browser-based debugging and testing (Console, Network tab)
-- Data analysis across 54,000+ lead records
-
-**Strategic Planning**
-- Lead scoring model design and optimization
-- SQL qualification framework development
-- Multi-phase project planning and execution
-- Risk identification and mitigation planning
-
-**Stakeholder Communication**
-- Technical documentation for non-technical audiences
-- Cross-functional workshop facilitation
-- Executive-level presentation of findings
-- Vendor coordination (Marketo administrators)
-
-**Problem Solving**
-- Systematic hypothesis testing and validation
-- Root cause analysis of complex technical issues
-- Solution design for integration challenges
-- Performance monitoring and optimization
-
----
-
-## Project Outcomes
-
-**Operational Excellence**
-Established a robust lead scoring infrastructure that provides real-time qualification of marketing leads based on demonstrated buyer intent, enabling more efficient sales handoff and resource allocation.
-
-**Technical Innovation**
-Uncovered and documented a multi-year tracking gap that had gone undiagnosed, providing a clear implementation path for full marketing automation capability restoration.
-
-**Strategic Foundation**
-Created a scalable framework that can evolve with business needs, supported by comprehensive documentation and monitoring protocols for continuous optimization.
-
----
-
-## Tools & Technologies
-
-- **Marketing Automation:** Marketo Engage
-- **Analytics:** Marketo Reporting Suite, Smart Lists, Web Activity Reports
-- **Testing Tools:** Browser DevTools (Console, Network, Cookie inspection)
-- **Integration:** Marketo REST API, Munchkin JavaScript
-- **Documentation:** Technical specifications, testing protocols, implementation guides
-
----
-
-*This project demonstrates advanced marketing operations capabilities including technical troubleshooting, system optimization, stakeholder management, and strategic framework development within enterprise marketing automation environments.*
 
 ### Shimano 2025 Email Newsletter Templates
 A comprehensive email template development project creating four distinct, responsive newsletter designs for different interest groups within Shimano's customer base.
