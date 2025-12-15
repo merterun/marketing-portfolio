@@ -1,9 +1,7 @@
 # Digital Marketing Portfolio - Mert Ali Erün
 
 ## About Me
-I am a specialized email marketing and SEO professional with strong project management capabilities and data analytics expertise. Over the past 6 years, I've focused primarily on executing complex email marketing campaigns and SEO strategies while simultaneously managing large-scale marketing projects across diverse industries, from SaaS and legal tech to production, aerospace and e-commerce. My experience spans working with global enterprises like Unilever, DuPont, JAMS, Wolters Kluwer and Shimano, as well as startups, giving me a unique perspective on both tactical email marketing execution and strategic project delivery across different scales and sectors.
-
-Currently serving as a Digital Marketing Manager at NMQ Digital, I lead email marketing operations and SEO initiatives across EU, EMEA, Benelux, and US markets while managing the project lifecycle for complex, multi-market campaigns. My approach combines deep technical email marketing expertise with systematic project management methodologies, allowing me to deliver both high-performing campaigns and seamless project execution with measurable results.
+I'm a digital marketing professional specializing in marketing automation and product marketing for B2B and SaaS companies. Over the past six years, I've built and executed multi-market campaigns, managed complex technical integrations, and led cross-functional projects for global enterprises including DuPont, Wolters Kluwer, Unilever, Shimano, and JAMS across EMEA, APAC, and US markets.My expertise centers on email marketing, automation workflows, and technical implementation. I design responsive templates, build automated campaigns in platforms like Marketo and Eloqua, manage CRM integrations with Salesforce, and coordinate with IT, legal, and sales teams to deliver measurable results. I approach problems analytically and handle both strategic planning and hands-on execution.
 
 ## Core Competencies & Technical Expertise
 
@@ -11,17 +9,17 @@ Currently serving as a Digital Marketing Manager at NMQ Digital, I lead email ma
 
 - **Platform Expertise**: Advanced proficiency in Eloqua, Marketo, Braze, Mailchimp, Adobe Campaign Standard, HubSpot, Email on Acid
 - **Campaign Management**: End-to-end email campaign execution from strategy to deployment, including A/B testing, segmentation, and performance optimization
-- **Workflow Design**: Created and optimized complex marketing automation workflows, including API integrations between CRM systems and databases
-- **Email Development**: Designed and coded sophisticated, responsive email templates compatible across multiple devices and email clients (HTML, CSS, VML for Outlook)
+- **Workflow and CRM integrations**: Created and optimized complex marketing automation workflows, including API integrations between CRM systems and databases
+- **Responsive email template development**: Designed and coded sophisticated, responsive email templates compatible across multiple devices and email clients (HTML, CSS, VML for Outlook)
 - **Database Management**: Expert in user database management, segmentation, scraping, cleaning, and maintenance, including bounce management and deliverability optimization
-- **Performance Analytics**: Advanced email performance tracking, conversion optimization, and ROI measurement
+- **End-to-end tracking implementation & Performance Analytics**: Advanced email performance tracking, conversion optimization, and ROI measurement
 
-### SEO & Content Marketing
-
-- **Technical SEO**: Implementation of comprehensive SEO strategies, resulting in improved search engine rankings and organic traffic growth
+- Multi-market product launch execution
 - **Content Strategy**: Development and execution of content marketing strategies aligned with email campaigns and SEO objectives
-- **Performance Tracking**: Regular monitoring and optimization of SEO metrics, keyword rankings, and content performance
+- Go-to-market strategy and implementation
 - **Web Development**: Designed and developed fully functional websites and landing pages using HTML, CSS, and JavaScript, including frameworks like Bootstrap and Sass
+- Lead scoring and nurture campaign development
+- Performance analytics and optimization
 
 ### Project Management & Cross-functional Leadership
 
@@ -49,7 +47,381 @@ Currently serving as a Digital Marketing Manager at NMQ Digital, I lead email ma
 
 ## Key Projects & Achievements
 
-### 
+### Unilever Food Solutions Lead Scoring System Implementation
+
+##
+ Project Overview
+
+Led the complete implementation of a sophisticated lead scoring model for Unilever Food Solutions across UK and Ireland markets, encompassing 54,401+ leads in the Marketo database. The project evolved from a standard scoring system update into a comprehensive technical investigation that uncovered critical tracking infrastructure gaps affecting marketing automation capabilities since 2022.
+**
+Timeline:
+**
+ September - December 2025  
+**
+Platform:
+**
+ Marketo Engage  
+**
+Client:
+**
+ Unilever Food Solutions (UKI)  
+**
+Impact:
+**
+ Established data-driven SQL qualification framework and restored visibility into buyer journey analytics
+---
+
+##
+ Project Scope
+
+###
+ Core Deliverables
+
+-
+ 
+**
+24 scoring triggers
+**
+ across email, web, and form-based activities
+-
+ 
+**
+SQL qualification framework
+**
+ with 100-point threshold
+-
+ 
+**
+Multi-stakeholder alignment
+**
+ across marketing, operations, and technical teams
+-
+ 
+**
+Comprehensive technical investigation
+**
+ identifying systemic tracking issues
+-
+ 
+**
+Implementation documentation
+**
+ with testing protocols and optimization roadmap
+###
+ Technical Environment
+
+-
+ Marketing automation platform: Marketo Engage
+-
+ Integration method: REST API (syncLead)
+-
+ Tracking mechanism: Munchkin JavaScript
+-
+ Lead volume: 54,401 records (2025)
+-
+ Trigger complexity: 24 distinct scoring rules with conditional logic
+---
+
+##
+ Key Features & Achievements
+
+###
+ Strategic Framework Development
+
+Designed and implemented a comprehensive scoring model that assigns point values based on engagement intent:
+-
+ 
+**
+High-intent actions
+**
+ (75 points): Sample requests, order initiation, product inquiries
+-
+ 
+**
+Moderate engagement
+**
+ (17-50 points): Content downloads, account registration, form submissions
+-
+ 
+**
+Light engagement
+**
+ (5-10 points): Email opens, website visits, video views
+-
+ 
+**
+Negative scoring
+**
+ (-25 points): Unsubscribes and inactivity decay
+###
+ Technical Investigation & Discovery
+
+Conducted systematic testing that revealed critical infrastructure gaps:
+-
+ 
+**
+Data Analysis:
+**
+ Identified that only 0.1% of leads (57 out of 54,401) had website activity tracked
+-
+ 
+**
+Root Cause Analysis:
+**
+ Determined that API-based lead creation bypassed cookie association mechanisms
+-
+ 
+**
+Browser-Level Validation:
+**
+ Confirmed through console testing that logged-in users were tracked as anonymous visitors
+-
+ 
+**
+Pattern Recognition:
+**
+ Discovered that 89% of tracked leads gained visibility only through email click-through attribution
+###
+ Solution Architecture
+
+Designed technical remediation approach addressing the tracking gap:
+-
+ Documented implementation requirements for 
+`Munchkin.munchkinFunction('associateLead')`
+ integration
+-
+ Created testing protocols for validation across login/signup workflows
+-
+ Established monitoring framework for trigger health and scoring accuracy
+-
+ Developed comprehensive technical documentation for cross-functional teams
+###
+ Stakeholder Management
+
+Facilitated alignment across multiple organizational levels:
+-
+ Conducted discovery workshops with marketing operations teams
+-
+ Presented technical findings to digital leadership (Head of Digital & Operator Marketing)
+-
+ Coordinated with Marketo administrators on infrastructure optimization
+-
+ Delivered actionable recommendations to web development teams
+---
+
+##
+ Measurable Impact
+
+###
+ Immediate Outcomes
+
+✅ 
+**
+Email-based scoring fully operational
+**
+ - Tracking opens, clicks, form fills, and engagement decay  
+✅ 
+**
+SQL definition established
+**
+ - Clear 100-point qualification threshold for sales handoff  
+✅ 
+**
+System health monitoring
+**
+ - Active tracking of trigger performance and scoring patterns  
+✅ 
+**
+Knowledge transfer
+**
+ - Comprehensive documentation enabling future optimization
+###
+ Projected Impact (Post-Fix Implementation)
+
+-
+ 
+**
+20-40% improvement
+**
+ in lead tracking coverage (from 0.1% to estimated 20-40% of active users)
+-
+ 
+**
+Enhanced lead qualification accuracy
+**
+ through complete buyer journey visibility
+-
+ 
+**
+Behavioral trigger enablement
+**
+ for 12 web-based automation campaigns
+-
+ 
+**
+Data-driven optimization
+**
+ capabilities for ongoing scoring refinement
+---
+
+##
+ Technical Challenges Overcome
+
+###
+ Challenge 1: Zero Historical Baseline
+
+**
+Problem:
+**
+ Existing scoring system was outdated and not monitored, providing no performance baseline  
+**
+Solution:
+**
+ Built comprehensive testing framework to validate each trigger independently and establish new performance metrics
+###
+ Challenge 2: Systemic Tracking Failure
+
+**
+Problem:
+**
+ Web-based triggers showed 0-2 activities per year despite significant website traffic  
+**
+Solution:
+**
+ Conducted multi-phase investigation using smart lists, web activity reports, and browser console testing to isolate root cause
+###
+ Challenge 3: Complex Data Flow Architecture
+
+**
+Problem:
+**
+ 100% API-based lead creation created disconnect between backend systems and frontend tracking  
+**
+Solution:
+**
+ Mapped complete data flow from lead creation through cookie association, identifying the specific integration gap
+###
+ Challenge 4: Anonymous vs. Known Attribution
+
+**
+Problem:
+**
+ Thousands of page views captured but not connected to lead records  
+**
+Solution:
+**
+ Analyzed attribution patterns, confirmed email click-through as only working mechanism, and designed cookie association solution
+---
+
+##
+ Key Skills Demonstrated
+
+**
+Technical Analysis
+**
+
+-
+ Marketing automation platform optimization (Marketo)
+-
+ JavaScript tracking implementation (Munchkin)
+-
+ API integration architecture (REST API, syncLead)
+-
+ Browser-based debugging and testing (Console, Network tab)
+-
+ Data analysis across 54,000+ lead records
+**
+Strategic Planning
+**
+
+-
+ Lead scoring model design and optimization
+-
+ SQL qualification framework development
+-
+ Multi-phase project planning and execution
+-
+ Risk identification and mitigation planning
+**
+Stakeholder Communication
+**
+
+-
+ Technical documentation for non-technical audiences
+-
+ Cross-functional workshop facilitation
+-
+ Executive-level presentation of findings
+-
+ Vendor coordination (Marketo administrators)
+**
+Problem Solving
+**
+
+-
+ Systematic hypothesis testing and validation
+-
+ Root cause analysis of complex technical issues
+-
+ Solution design for integration challenges
+-
+ Performance monitoring and optimization
+---
+
+##
+ Project Outcomes
+
+**
+Operational Excellence
+**
+
+Established a robust lead scoring infrastructure that provides real-time qualification of marketing leads based on demonstrated buyer intent, enabling more efficient sales handoff and resource allocation.
+**
+Technical Innovation
+**
+
+Uncovered and documented a multi-year tracking gap that had gone undiagnosed, providing a clear implementation path for full marketing automation capability restoration.
+**
+Strategic Foundation
+**
+
+Created a scalable framework that can evolve with business needs, supported by comprehensive documentation and monitoring protocols for continuous optimization.
+---
+
+##
+ Tools & Technologies
+
+-
+ 
+**
+Marketing Automation:
+**
+ Marketo Engage
+-
+ 
+**
+Analytics:
+**
+ Marketo Reporting Suite, Smart Lists, Web Activity Reports
+-
+ 
+**
+Testing Tools:
+**
+ Browser DevTools (Console, Network, Cookie inspection)
+-
+ 
+**
+Integration:
+**
+ Marketo REST API, Munchkin JavaScript
+-
+ 
+**
+Documentation:
+**
+ Technical specifications, testing protocols, implementation guides
+---
 
 ### Shimano 2025 Email Newsletter Templates
 A comprehensive email template development project creating four distinct, responsive newsletter designs for different interest groups within Shimano's customer base.
