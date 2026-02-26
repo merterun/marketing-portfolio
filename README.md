@@ -73,6 +73,43 @@ A comprehensive lead scoring system implementation for Unilever Food Solutions a
 
 ---
 
+Updated portfolio version:
+
+---
+
+### JAMS Email Deliverability & Bounce Classification Program
+
+An ongoing operational project focused on detecting and classifying bounced contacts across JAMS transactional and marketing email streams. Running continuously since 2022.
+
+**Role & Responsibilities:**
+
+- Gather and analyze bounce log data from AWS infrastructure weekly
+- Classify bounced contacts by type and severity: hard bounces, soft bounces, complaints, and ISP-specific blocks
+- Distinguish between transactional and marketing email bounce patterns
+- Monitor ISP-specific blocking patterns to detect deliverability threats early
+- Maintain and update suppression lists based on classification outcomes
+- Deliver weekly reports to external stakeholders on bounce health and contact status
+
+**Process Improvements Over 3 Years:**
+
+- Built custom scripts to automate bounce log processing, significantly reducing manual labor time
+- Created an automated emailing process for stakeholder reporting, replacing manual report distribution
+- Refined classification taxonomy over time based on evolving ISP response patterns and bounce code behaviors
+
+**Technical Details:**
+
+- Semi-automated workflow processing hundreds of thousands of emails on an ongoing basis
+- Classification covers bounce codes, ISP response patterns, complaint feedback loops, and suppression triggers
+- Reporting tracks trends over time to flag systemic issues before they impact sender reputation
+
+**Why This Matters:**
+
+This project isn't about reducing bounces. It's about knowing exactly who bounced, why, and what to do about it. Clean contact detection protects sender reputation, ensures suppression compliance, and gives stakeholders visibility into the health of their email infrastructure. Most marketers never work at this layer. This project sits at the foundation of everything else email marketing depends on. Also most importantly letting case managers know which one of their clients were unreacheable.
+
+---
+
+---
+
 ### Shimano 2025 Email Newsletter Templates
 A comprehensive email template development project creating four distinct, responsive newsletter designs for different interest groups within Shimano's customer base.
 
