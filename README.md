@@ -60,8 +60,8 @@ A comprehensive lead scoring system implementation for Unilever Food Solutions a
 
 **Results:**
 - Successfully deployed operational scoring system with SQL qualification at 100-point threshold
-- Identified and documented systemic tracking issue affecting 99.9% of lead database since 2022
-- Designed technical solution projected to improve lead tracking coverage from <1% to 20-40%
+- Identified and documented systemic tracking issue affecting a large portion of lead database since 2022
+- Designed technical solution projected to improve lead tracking coverage by 30-40%
 - Established foundation for behavioral marketing automation and data-driven lead qualification
 - Enabled real-time lead scoring across 50,000+ contact database
 
